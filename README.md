@@ -6,3 +6,4 @@ Any queries related to the dataset or the scripts should be directed to:
 
 charlotte.brierley@imm.ox.ac.uk
 # Rampotas_Wong_STM_2026
+<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/bcf01942-be04-48ed-856f-859f4c56a65b" />
